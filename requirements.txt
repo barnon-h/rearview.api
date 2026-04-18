@@ -8,3 +8,4 @@ ruff
 pytest
 numpy
 pandas
+pytest
